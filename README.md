@@ -22,7 +22,7 @@ Data source: (https://www.kaggle.com/datasets/theworldbank/international-debt-st
 - Computed the average amount of debt across different debt indicators
 - Analyzed the country with the highest debt in the long-term debt category
 - Identified the most common debt indicators affecting all countries
-- Found maximum debt amounts across various indicators along with respective country names
+- Found maximum debt amounts across various indicators along with respective country name
 
 ## Tools and Technologies
 - SQL for data querying and analysis
