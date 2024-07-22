@@ -1,7 +1,7 @@
 # International Debt Analysis
 
 ## Overview
-This project aims to analyze international debt data collected by The World Bank to understand the distribution and magnitude of debt among developing countries. The project involves querying a PostgreSQL database, performing data analysis, and visualizing key insights about the debt indicators and amounts.
+This project aims to analyze international debt data from The World Bank to understand the distribution and magnitude of debt among developing countries. The project involves querying a PostgreSQL database, performing data analysis, and visualizing key insights about the debt indicators and amounts.
 
 ## Data Source
 The dataset used in this project is sourced from Kaggle and contains information about the amount of debt (in USD) owed by developing countries across several categories.
